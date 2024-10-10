@@ -23,5 +23,5 @@
 ***
 
 * [Knowlegde](knowlegde/README.md)
-  * [DN404 Standart](knowlegde/dn404-standart.md)
+  * [DN404 Standard](knowlegde/dn404-standard.md)
   * [What is WOMC?](knowlegde/what-is-womc.md)
