@@ -22,15 +22,15 @@ Wrapped crypto tokens are digital assets that represent another cryptocurrency o
 
 **Step 1:** Connect your wallet.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 **Step 2:** Click on your OMC.
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 **Step 3:**  Enter the amount of OMC to swap for WOMC (1 OMC = 1 WOMC). Click 'Deposit' and sign the transaction to confirm
 
-<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 
 
