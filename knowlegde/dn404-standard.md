@@ -8,12 +8,6 @@ description: 'DN404 Standard: Main Features'
 
 DN-404 is an experimental Ethereum token standard that merges the features of ERC-20 (fungible tokens) and ERC-721 (non-fungible tokens) to create a more versatile and liquid asset class. This new standard allows for the native fractionalization of NFTs, making it possible for multiple wallets to own parts of a single NFT directly, enhancing liquidity and reducing reliance on third-party protocols.
 
-## How Does DN-404 Work?
-
-1. **Hybrid Model**: Unlike traditional NFTs (ERC-721), which are unique and indivisible, DN-404 introduces fungibility into the NFT structure. This is achieved by dividing the NFT into base units, similar to how Ethereum (ETH) is divided into wei.
-2. **Decimals Specification**: The number of base units is determined by the number of decimals specified in the smart contract. For example, if the decimals are set to 2, the NFT can be divided into 100 parts (10^2).
-3. **Ownership**: Each base unit represents a fraction of the NFT. Users can acquire these fractions, and ownership of the entire NFT is reflected when a user holds all the base units.
-
 #### The Pandora NFT Project
 
 Pandora is one of the first projects to implement the DN-404 standard. It features a collection of 10,000 unique NFTs called Replicants, which are tied to PANDORA tokens. These tokens allow for the fractional ownership of the NFTs:
