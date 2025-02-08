@@ -1,24 +1,24 @@
----
-description: Basically, WOMC is a wrapped token of OMC and represents the value of OMC.
----
+# What is Wrap?
 
-# What is WOMC?
+## What Are Wrapped Tokens?
 
-## What are wrapped tokens?
+A wrapped token is simply an ERC-20 version of a native token. For example, WETH (Wrapped Ether) is a wrapped version of Ethereum, designed to be exchanged 1:1 with ETH.
 
-Wrapped crypto tokens are digital assets that represent another cryptocurrency on a different blockchain. They are designed to address the challenge of interoperability between different blockchain networks, allowing assets from one blockchain to be used on another.
+## Why Do We Need Wrapped Tokens?
 
-## Understanding Wrapped Crypto Tokens
+In the blockchain space, native tokens like BTC, ETH, SOL, or DOT are specific to their respective blockchains. For example, BTC is the native token of Bitcoin, used for transaction fees and as a digital asset.  
 
-* Mirroring Value: Wrapped tokens mirror the value of the original asset they represent. For example, Wrapped Bitcoin (wBTC) on the Ethereum blockchain mirrors the value of Bitcoin. This enables users to interact with Ethereum-based decentralized applications (dApps) while holding a token that represents Bitcoin.
-* Creation Process: To create a wrapped token, the original asset (e.g., Bitcoin) is securely locked in a digital vault, and a new token is minted on a different blockchain (e.g., Ethereum). This new token can be used on the blockchain it was minted on, offering the same value as the original asset.
+So, why do we need wrapped tokens?  
+Have you ever heard of ERC-20 tokens like SHIBA, PEPE, or TRUMP? These are ERC-20 tokens created through smart contracts. Since they follow the ERC-20 standard, they can be easily integrated into DeFi platforms, traded on decentralized exchanges, and used in various smart contract functionalities—something native tokens cannot do directly. For instance, wrapped tokens enable features like delegated transfers, seamless liquidity provision, and compatibility with DeFi protocols.  
 
-## The Role of Wrapped Tokens in DeFi
+## Role of Wrapped Tokens in OpenMark  
 
-* Enhancing Interoperability: Wrapped tokens are crucial in the decentralized finance (DeFi) space, as they facilitate smoother and more efficient movement of funds across different blockchains. For example, wBTC allows Bitcoin holders to participate in Ethereum-based DeFi platforms.
-* Boosting Liquidity: Wrapped tokens increase liquidity in the DeFi market by enabling assets from various blockchains to be used across different platforms. This leads to more capital being available, which can increase trading activity and engagement in the DeFi ecosystem.
+Wrapped tokens are required for Offers in OpenMark. Supported wrapped tokens include:  
+- **WETH**: Wrapped Ethereum  
+- **WNIBI**: Wrapped NIBI (Nibiru chain)  
+- **WOMC**: Wrapped OMC (OpenMark Chain)  
 
-## How to get WOMC?
+## How to convert native token to wrap token with example of OMC?
 
 **Step 1:** Connect your wallet.
 
