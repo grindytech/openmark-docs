@@ -1,8 +1,6 @@
-# What is Wrap?
-
-## What Are Wrapped Tokens?
-
-A wrapped token is simply an ERC-20 version of a native token. For example, WETH (Wrapped Ether) is a wrapped version of Ethereum, designed to be exchanged 1:1 with ETH.
+---
+description: 'A wrapped token is simply an ERC-20 version of a native token. For example, WETH (Wrapped Ether) is a wrapped version of Ethereum, designed to be exchanged 1:1 with ETH.'
+---
 
 ## Why Do We Need Wrapped Tokens?
 
@@ -18,19 +16,18 @@ Wrapped tokens are required for Offers in OpenMark. Supported wrapped tokens inc
 - **WNIBI**: Wrapped NIBI (Nibiru chain)  
 - **WOMC**: Wrapped OMC (OpenMark Chain)  
 
-## How to convert native token to wrap token with example of OMC?
+## How to Convert Native Tokens to Wrapped Tokens (Example: OMC)
 
-**Step 1:** Connect your wallet.
+**Step 1:** Login with your wallet.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 **Step 2:** Click on your OMC.
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 **Step 3:**  Enter the amount of OMC to swap for WOMC (1 OMC = 1 WOMC). Click 'Deposit' and sign the transaction to confirm
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
-
-
+To convert WOMC back to OMC, simply click "Withdraw."
