@@ -15,7 +15,7 @@
   * [How to Launch Your NFT Collection on OpenMark Launchpad?](about-openmark/how-to-use-openmark-studio/how-to-create-a-drop.md)
 * [Knowlegde](about-openmark/knowlegde/README.md)
   * [What is wrap token?](about-openmark/knowlegde/what-is-wrap-token.md)
-  * [What is DN404 token?](about-openmark/knowlegde/dn404-standard.md)
+  * [NFT Token Types Supported on OpenMark](about-openmark/knowlegde/dn404-standard.md)
 * [User Safety](about-openmark/user-safety/README.md)
   * [Some common web3 scams](about-openmark/user-safety/some-common-web3-scams.md)
   * [Stay Safe and Protect Your NFTs](about-openmark/user-safety/stay-safe-and-protect-your-nfts.md)
