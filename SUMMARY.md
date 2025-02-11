@@ -4,9 +4,9 @@
 
 * [OpenMark](README.md)
 * [How to trade on OpenMark?](about-openmark/how-to-trade-on-openmark/README.md)
-  * [How to buy NFTs?](about-openmark/how-to-trade-on-openmark/how-to-buy-nfts.md)
-  * [How to make offer?](about-openmark/how-to-trade-on-openmark/how-to-make-offer.md)
-  * [Video Tutorial](about-openmark/how-to-trade-on-openmark/video-tutorial.md)
+  * [How to Buy & Sell NFTs on OpenMark?](about-openmark/how-to-trade-on-openmark/how-to-buy-nfts.md)
+  * [How to make Offer & Accept Offers?](about-openmark/how-to-trade-on-openmark/how-to-make-offer.md)
+  * [How to buy NFTs in Launchpad?](about-openmark/how-to-trade-on-openmark/how-to-make-offer-1.md)
 * [How to use OpenMark Studio?](about-openmark/how-to-use-openmark-studio/README.md)
   * [How to create Collection or Item?](about-openmark/how-to-use-openmark-studio/how-to-create-collection-or-item.md)
   * [How to generate NFTs?](about-openmark/how-to-use-openmark-studio/how-to-generate-nfts.md)
