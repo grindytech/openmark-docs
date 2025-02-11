@@ -1,13 +1,28 @@
 ---
 description: >-
-  OpenMark Studio is designed to empower creators by making the NFT creation and
-  management process accessible to everyone.
+  If you're a creator, OpenMark Studio is the perfect place for you! This
+  exclusive tool lets you generate anything from small to massive NFT
+  collections and launch them in minutes—no coding required.
 ---
 
-# How to use OpenMark Studio?
+# How to Use OpenMark Studio?
 
-By providing a no-code, decentralized platform, OpenMark enables anyone—from artists to businesses—to easily create, customize, and launch NFT collections without the need for technical expertise.&#x20;
+<figure><img src="../../.gitbook/assets/open-studio.png" alt=""><figcaption></figcaption></figure>
 
-This not only democratizes the creation process but also accelerates the time-to-market for unique digital assets. With the ability to generate NFTs from various file types, set rarity, and manage supply, creators can fully control their collections.&#x20;
+### **From Scratch to Launch: The 3-Step Process**
 
-The ability to quickly launch drops and sell NFTs directly from the platform makes OpenMark an invaluable tool for maximizing reach and profitability in the rapidly growing NFT market.
+**1. Generate Your NFT Collection**
+
+Use the **NFT Generation Tool** to easily create a professional NFT collection with just a few clicks.
+
+**2. Deploy Your Collection on the Blockchain**
+
+Deploy your collection on the blockchain using one of the three most popular standards:
+
+* **ERC-721** (Standard NFTs)
+* **ERC-1155** (Multi-token standard)
+* **DN-404** (Hybrid ERC-20 & ERC-721 standard)
+
+**3. Launch Your NFT Collection**
+
+Instantly launch your collection using **Open Launchpad.**
