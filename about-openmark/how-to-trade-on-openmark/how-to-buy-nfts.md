@@ -4,7 +4,7 @@ Trading NFTs on OpenMark is simple. Follow these quick steps to get started:
 
 ### **Buying NFTs from Launchpad**
 
-{% embed url="https://youtu.be/wn_lAFmCZuA" %}
+{% embed url="https://youtu.be/bJGaTLrOqvw" %}
 
 1. Explore all available launchpads on OpenMark **here**.
 2. Select the launchpad and stage you're interested in.
