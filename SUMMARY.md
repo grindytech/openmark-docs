@@ -11,7 +11,7 @@
     * [How to Generate Single Image Collection?](about-openmark/how-to-use-openmark-studio/how-to-generate-nfts/how-to-generate-single-image-collection.md)
     * [How to Generate Mixed NFT Collection?](about-openmark/how-to-use-openmark-studio/how-to-generate-nfts/how-to-generate-mixed-nft-collection.md)
     * [How to Generate Layered NFT Collection?](about-openmark/how-to-use-openmark-studio/how-to-generate-nfts/how-to-generate-layered-nft-collection.md)
-  * [How to create Collection or Item?](about-openmark/how-to-use-openmark-studio/how-to-create-collection-or-item.md)
+  * [How to Create an NFT Collection on Blockchain?](about-openmark/how-to-use-openmark-studio/how-to-create-collection-or-item.md)
   * [How to create a Drop?](about-openmark/how-to-use-openmark-studio/how-to-create-a-drop.md)
   * [Video Tutorial](about-openmark/how-to-use-openmark-studio/video-tutorial.md)
 * [Knowlegde](about-openmark/knowlegde/README.md)
