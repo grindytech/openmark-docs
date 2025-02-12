@@ -13,6 +13,7 @@
     * [How to Generate Layered NFT Collection?](about-openmark/how-to-use-openmark-studio/how-to-generate-nfts/how-to-generate-layered-nft-collection.md)
   * [How to Create an NFT Collection on Blockchain?](about-openmark/how-to-use-openmark-studio/how-to-create-collection-or-item.md)
   * [How to Launch Your NFT Collection on OpenMark Launchpad?](about-openmark/how-to-use-openmark-studio/how-to-create-a-drop.md)
+  * [How to Create Your Own Drop on OpenMark?](about-openmark/how-to-use-openmark-studio/how-to-create-your-own-drop-on-openmark.md)
 * [Knowlegde](about-openmark/knowlegde/README.md)
   * [What is wrap token?](about-openmark/knowlegde/what-is-wrap-token.md)
   * [NFT Token Types Supported on OpenMark](about-openmark/knowlegde/dn404-standard.md)
