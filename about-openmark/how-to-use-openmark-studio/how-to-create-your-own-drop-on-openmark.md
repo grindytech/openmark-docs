@@ -2,7 +2,7 @@
 
 {% embed url="https://youtu.be/IVM3jRzQdUs" %}
 
-A **Drop** is a container for multiple **Stages (Launchpads)** inside it. Previously, you learned how to launch an NFT collection with just a few clicks. By default, collections are launched in **Open Launchpad**, a **community Drop** where anyone can create a stage.
+A **Drop** is a container for multiple **Stages (Launchpads)** inside it. Previously, you learned [how to launch an NFT collection](https://wiki.openmark.io/about-openmark/how-to-use-openmark-studio/how-to-create-a-drop) with just a few clicks. By default, collections are launched in **Open Launchpad**, a **community Drop** where anyone can create a stage.
 
 But what if you want **your own Drop**—one that only **you** can manage?
 
