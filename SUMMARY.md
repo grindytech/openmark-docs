@@ -19,6 +19,7 @@
   * [NFT Token Types Supported on OpenMark](about-openmark/knowlegde/nft-token-types.md)
   * [DN404 Standard](about-openmark/knowlegde/dn404-standard.md)
   * [ERC721 Standard](about-openmark/knowlegde/erc721-standard.md)
+  * [ERC1155 Standard](about-openmark/knowlegde/erc1155-standard.md)
 * [User Safety](about-openmark/user-safety/README.md)
   * [Some common web3 scams](about-openmark/user-safety/some-common-web3-scams.md)
   * [Stay Safe and Protect Your NFTs](about-openmark/user-safety/stay-safe-and-protect-your-nfts.md)

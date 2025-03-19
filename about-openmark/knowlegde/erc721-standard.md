@@ -26,8 +26,7 @@ If you want to make an ERC-721 NFT collection, OpenMark makes it easy with a few
 
 1. **Go to the Creation Page**:\
    Visit [https://openmark.io/create/collection](https://openmark.io/create/collection) in your browser.
-2. **Pick ERC-721 Type**:\
-   Choose "ERC-721" from the collection options to set it up as an NFT collection.
+2. **Pick ERC-721 Type.**
 3. **Add Collection Details**:\
    Fill in the info like:
    * **Logo & Name**: Logo and name of your collection.
